@@ -1,0 +1,1006 @@
+{
+  "General Settings": {
+    "Ru": "",
+    "Cn": "杂项设置"
+  },
+  "Language": {
+    "Ru": "",
+    "Cn": "语言"
+  },
+  "Select": {
+    "Ru": "",
+    "Cn": "选择"
+  },
+  "Global language": {
+    "Ru": "",
+    "Cn": "同步汉化"
+  },
+  "Save global language": {
+    "Ru": "",
+    "Cn": "保存当前的语言文件"
+  },
+  "Saved in path \"Divine\\Resources\\Localization.json\"": {
+    "Ru": "",
+    "Cn": "保存到Divine\\Resources\\Localization.json\""
+  },
+  "Menu Hold Key": {
+    "Ru": "",
+    "Cn": "长按"
+  },
+  "Menu Toggle Key": {
+    "Ru": "",
+    "Cn": "切换键"
+  },
+  "Do not touch! | Не трогайте!": {
+    "Ru": "",
+    "Cn": "开关按键(默认关闭最好)"
+  },
+  "Spell shield": {
+    "Ru": "",
+    "Cn": "魔法护盾"
+  },
+  "Clone combo": {
+    "Ru": "",
+    "Cn": "副狗连招"
+  },
+  "Push mode": {
+    "Ru": "",
+    "Cn": "推进模式"
+  },
+  "Panel settings": {
+    "Ru": "",
+    "Cn": "面板设置"
+  },
+  "position x": {
+    "Ru": "",
+    "Cn": "菜单x轴"
+  },
+  "position y": {
+    "Ru": "",
+    "Cn": "菜单y轴"
+  },
+  "SIZE": {
+    "Ru": "",
+    "Cn": "大小"
+  },
+  "Auto usage": {
+    "Ru": "",
+    "Cn": "自动使用"
+  },
+  "更新率": {
+    "Ru": "",
+    "Cn": "延迟"
+  },
+  "Tree cut": {
+    "Ru": "",
+    "Cn": "自动砍树"
+  },
+  "Evader": {
+    "Ru": "",
+    "Cn": "躲避"
+  },
+  "Farm": {
+    "Ru": "",
+    "Cn": "补刀"
+  },
+  "商店营业时不要画画": {
+    "Ru": "",
+    "Cn": "打开商店时,其他绘制暂时关闭"
+  },
+  "Item manager": {
+    "Ru": "",
+    "Cn": "物品管理"
+  },
+  "FARM STATUS": {
+    "Ru": "",
+    "Cn": "推进状态"
+  },
+  "NOT ACTIVE": {
+    "Ru": "",
+    "Cn": "不工作"
+  },
+  "LINE SELECT FARM": {
+    "Ru": "",
+    "Cn": "选择打钱线路"
+  },
+  "TOP": {
+    "Ru": "",
+    "Cn": "上路"
+  },
+  "MID": {
+    "Ru": "",
+    "Cn": "中路"
+  },
+  "BOT": {
+    "Ru": "",
+    "Cn": "下路"
+  },
+  "AUTO": {
+    "Ru": "",
+    "Cn": "自动"
+  },
+  "ARC TARGET COMBO": {
+    "Ru": "",
+    "Cn": "副狗连招目标"
+  },
+  "Dodge": {
+    "Ru": "",
+    "Cn": "躲避(全部)"
+  },
+  "Snatcher (T)": {
+    "Ru": "",
+    "Cn": "抢东西状态(开启)"
+  },
+  "Humanizer BETA TEST": {
+    "Ru": "",
+    "Cn": "人性化测试版本"
+  },
+  "Humanizer": {
+    "Ru": "",
+    "Cn": "人性化"
+  },
+  "Creeps Blocker": {
+    "Ru": "",
+    "Cn": "卡兵"
+  },
+  "Menu Size": {
+    "Ru": "",
+    "Cn": "菜单大小"
+  },
+  "Menu Alpha": {
+    "Ru": "",
+    "Cn": "菜单透明度"
+  },
+  "Auto accept": {
+    "Ru": "",
+    "Cn": "自动接受"
+  },
+  "Dota Plus": {
+    "Ru": "",
+    "Cn": "解锁dotaPLUS"
+  },
+  "Debugger": {
+    "Ru": "",
+    "Cn": "调试模式"
+  },
+  "Draw": {
+    "Ru": "",
+    "Cn": "显示"
+  },
+  "Test": {
+    "Ru": "",
+    "Cn": "测试"
+  },
+  "Camera": {
+    "Ru": "",
+    "Cn": "相机(俗称镜头)"
+  },
+  "Slow": {
+    "Ru": "",
+    "Cn": "慢"
+  },
+  "Speed": {
+    "Ru": "",
+    "Cn": "速度"
+  },
+  "Mouse TODO": {
+    "Ru": "",
+    "Cn": "鼠标设置"
+  },
+  "Minimap": {
+    "Ru": "",
+    "Cn": "小地图"
+  },
+  "Enable": {
+    "Ru": "",
+    "Cn": "启用"
+  },
+  "Screen": {
+    "Ru": "",
+    "Cn": "屏幕"
+  },
+  "Start Trigger": {
+    "Ru": "",
+    "Cn": "开始触发"
+  },
+  "End Trigger": {
+    "Ru": "",
+    "Cn": "结束触发"
+  },
+  "If you disable it,": {
+    "Ru": "",
+    "Cn": "如果关闭他"
+  },
+  "there will be a big risk of a ban": {
+    "Ru": "",
+    "Cn": "你会被禁止"
+  },
+  "Draw orders": {
+    "Ru": "",
+    "Cn": "显示发包信息"
+  },
+  "Hotkey": {
+    "Ru": "",
+    "Cn": "快捷键"
+  },
+  "Time (in ms) before next activation (GLOBAL! WORK ON ALL CUTTERS)": {
+    "Ru": "",
+    "Cn": "在砍完一颗树之后等多久才会砍下一颗(这个延迟时间会影响其他砍树设置)"
+  },
+  "Use abilities after X minutes": {
+    "Ru": "",
+    "Cn": "在多少分钟后才开始砍树"
+  },
+  "Evader (Proactive)": {
+    "Ru": "",
+    "Cn": "尝试预测和躲避即时施法能力（羊刀紫苑禁魔变羊等）"
+  },
+  "Dodge (Disables)": {
+    "Ru": "",
+    "Cn": "只躲控制"
+  },
+  "Dodge (None)": {
+    "Ru": "",
+    "Cn": "啥都不躲"
+  },
+  "Dodge:": {
+    "Ru": "",
+    "Cn": "躲避(全部)"
+  },
+  "Move camera": {
+    "Ru": "",
+    "Cn": "移动镜头"
+  },
+  "值将加速能力触发，但会减少 fps": {
+    "Ru": "",
+    "Cn": "值越高触发的越慢"
+  },
+  "铸造时使用": {
+    "Ru": "",
+    "Cn": "抬手放技能时使用"
+  },
+  "启动时使用": {
+    "Ru": "",
+    "Cn": "闪烁时使用"
+  },
+  "Dont use eul in combo, if have arcane blink": {
+    "Ru": "",
+    "Cn": "不用吹风,直接跳大"
+  },
+  "Raze settings": {
+    "Ru": "",
+    "Cn": "影压设置"
+  },
+  "Raze to mouse": {
+    "Ru": "",
+    "Cn": "鼠标位置放影压"
+  },
+  "Draw razes": {
+    "Ru": "",
+    "Cn": "显示影压范围"
+  },
+  "Techies Crappahilation": {
+    "Ru": "",
+    "Cn": "炸弹人脚本"
+  },
+  "Auto Detonate": {
+    "Ru": "",
+    "Cn": "自动引爆"
+  },
+  "Detonate all in once": {
+    "Ru": "",
+    "Cn": "炸全部的雷"
+  },
+  "Detonate all in once with focused detonation": {
+    "Ru": "",
+    "Cn": "用集中引爆来炸雷"
+  },
+  "Use prediction": {
+    "Ru": "",
+    "Cn": "使用预测"
+  },
+  "Delay on detonate": {
+    "Ru": "",
+    "Cn": "延迟引爆时间"
+  },
+  "Targets": {
+    "Ru": "",
+    "Cn": "选择目标"
+  },
+  "Auto Planting": {
+    "Ru": "",
+    "Cn": "自动埋雷"
+  },
+  "Help to plant mines in one place": {
+    "Ru": "",
+    "Cn": "帮助在一个地方埋地雷"
+  },
+  "Auto remote mine on last cast": {
+    "Ru": "",
+    "Cn": "自动在大招位置放雷"
+  },
+  "Auto proximity mines on base": {
+    "Ru": "",
+    "Cn": "自动在家附近埋雷"
+  },
+  "Move proximity mines on closest stun position": {
+    "Ru": "",
+    "Cn": "有晕雷自动把雷聚在一起"
+  },
+  "Range for auto moving": {
+    "Ru": "",
+    "Cn": "会自动移动的范围"
+  },
+  "Visual": {
+    "Ru": "",
+    "Cn": "帮助显示"
+  },
+  "Damage panel": {
+    "Ru": "",
+    "Cn": "伤害面板"
+  },
+  "Damage drawing": {
+    "Ru": "",
+    "Cn": "开启伤害面板"
+  },
+  "Show damage counter": {
+    "Ru": "",
+    "Cn": "伤害面板提示"
+  },
+  "Only for current hp": {
+    "Ru": "",
+    "Cn": "当前血量"
+  },
+  "Bomb damage draw type": {
+    "Ru": "",
+    "Cn": "伤害计算方式"
+  },
+  "Extra Position X": {
+    "Ru": "",
+    "Cn": "面板x轴"
+  },
+  "Extra Position Y": {
+    "Ru": "",
+    "Cn": "面板y轴"
+  },
+  "Good positions": {
+    "Ru": "",
+    "Cn": "埋雷提示(我认为过时了)"
+  },
+  "Show good position for planting": {
+    "Ru": "",
+    "Cn": "显示埋雷推荐的位置"
+  },
+  "Range ": {
+    "Ru": "",
+    "Cn": "范围"
+  },
+  "Only for max hp": {
+    "Ru": "",
+    "Cn": "最大血量"
+  },
+  "FreeEmoteIcons": {
+    "Ru": "",
+    "Cn": "免费的表情"
+  },
+  "Combo key": {
+    "Ru": "",
+    "Cn": "连招"
+  },
+  "Ult combo key": {
+    "Ru": "",
+    "Cn": "大招连招"
+  },
+  "Raze Key": {
+    "Ru": "",
+    "Cn": "影压快捷键"
+  },
+  "Spells": {
+    "Ru": "",
+    "Cn": "使用的技能"
+  },
+  "linken's": {
+    "Ru": "",
+    "Cn": "林肯"
+  },
+  "RazeMouse": {
+    "Ru": "",
+    "Cn": "影压到鼠标位置"
+  },
+  "Show Raze Radius": {
+    "Ru": "",
+    "Cn": "显示影压范围"
+  },
+  "ZXC settings": {
+    "Ru": "",
+    "Cn": "大招连招设置"
+  },
+  "Eul Combo": {
+    "Ru": "",
+    "Cn": "吹风连招"
+  },
+  "Auto use Ethereal Blade": {
+    "Ru": "",
+    "Cn": "自动用虚灵刀"
+  },
+  "Reasonable use of the sheep's stick before EUL": {
+    "Ru": "",
+    "Cn": "吹风前用羊刀"
+  },
+  "Auto cancel ultimate": {
+    "Ru": "",
+    "Cn": "自动取消大招"
+  },
+  "Abyssal Combo": {
+    "Ru": "",
+    "Cn": "大晕锤连招"
+  },
+  "Auto use Ethereal Blade before Abyssal Blade": {
+    "Ru": "",
+    "Cn": "用虚灵刀"
+  },
+  "Extra time ult": {
+    "Ru": "",
+    "Cn": "大招时间设置(加快或者延迟)"
+  },
+  "Smart use of bkb": {
+    "Ru": "",
+    "Cn": "智能用bkb"
+  },
+  "Enemy search radius for smart BKB": {
+    "Ru": "",
+    "Cn": "这个范围里有敌人就用bkb"
+  },
+  "Menu combo settings": {
+    "Ru": "",
+    "Cn": "连招物品选择菜单"
+  },
+  "ACTIVE": {
+    "Ru": "",
+    "Cn": "正在执行"
+  },
+  "Save if some text appears on the screen then you can change it via file": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Divine.Menu": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Cn": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "you can edit it and send it to RoccoZero.": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Insert": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "H": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Menu Input Block": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Default": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Menu Style": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "EntityManager<Unit>.EntityAdded": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "EntityManager<Unit>.EntityRemoved": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Unit.OnModifierAdded": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Unit.OnModifierRemoved": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Entity.OnParticleEffectAdded": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "EntityManager<Ability>.EntityAdded": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "EntityManager<Ability>.EntityRemoved": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Entity.OnAnimationChanged": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Game.OnGameEvent": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Game.OnGCMessageReceive": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Game.OnUIStateChanged": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Game.OnMessage": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Hide": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Show": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Clear": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Pause": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Continue": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Do not enable! | Не включать!": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Trigger": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Order": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Rate": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "None": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "On add/remove": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Units": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "On add enabled": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "On remove enabled": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Heroes only": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Ignore useless": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Modifiers": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Particles": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Show CP values": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Ignore zero CP values": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Abilities": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "On change": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Animations": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Enabled": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Information": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Get": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Auto update": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Show hidden": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Show talents": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Show levels": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Show mana cost": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Show cast range": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Show behavior": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Show target type": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Show all special data": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Items": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Show inventory items": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Show backpack items": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Show stash items": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Show texture name": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Show remaining time": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Show elapsed time": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Show team": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Show level": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Show hp/mp": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Show vision": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Show state": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Show ability information": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Show item information": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Show modifier information": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Mouse": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Show mouse position": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Copy position on click": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Exceptions": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Cheats": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "NumPad3": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Refresh": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Divide": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Change wtf": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Multiply": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Change vision": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "NumPad0": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Change creeps spawn": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "NumPad1": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Hero 25lvl": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Hero gold": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "NumPad2": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Bot 25lvl": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Create unit": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Random ally hero": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "NumPad8": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Melee ally creep": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "NumPad9": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Ranged ally creep": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "NumPad4": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Random enemy hero": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "NumPad5": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Melee enemy creep": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "NumPad6": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Ranged enemy creep": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "On execute order": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Game events": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Game event": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "GC message": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "UI state": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Message": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Overlay settings": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Items to save": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Lines to show": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Text size": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Position x": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Position y": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "DotaMapPlus": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Zoom Hack": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "LeftCtrl": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Key": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Camera Distance": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Console Commands": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Fog Disable": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Filtering Disable": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Particle Hack Enable": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Weather Hack": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Selected": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "杂项设置": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "语言": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "长按": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "切换键": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "菜单大小": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "菜单透明度": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "自动接受": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "解锁dotaPLUS": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "人性化测试版本": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "人性化": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "调试模式": {
+    "Ru": "",
+    "Cn": ""
+  },
+  "Button": {
+    "Ru": "",
+    "Cn": ""
+  }
+}
