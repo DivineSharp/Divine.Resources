@@ -24,47 +24,47 @@
     "Cn": "保存到Divine\\Resources\\Localization.json\""
   },
   "Menu Hold Key": {
-    "Ru": "",
+    "Ru": "Кнопка удержания",
     "Cn": "长按"
   },
   "Menu Toggle Key": {
-    "Ru": "",
+    "Ru": "Кнопка переключения",
     "Cn": "切换键"
   },
-  "Do not touch! | Не трогайте!": {
-    "Ru": "",
+  "Do not touch!": {
+    "Ru": "Не трогать!",
     "Cn": "开关按键(默认关闭最好)"
   },
   "Spell shield": {
-    "Ru": "",
+    "Ru": "Защитные сопособности",
     "Cn": "魔法护盾"
   },
   "Clone combo": {
-    "Ru": "",
+    "Ru": "Клон Комбо",
     "Cn": "副狗连招"
   },
   "Push mode": {
-    "Ru": "",
+    "Ru": "Авто-Пуш Мод",
     "Cn": "推进模式"
   },
   "Panel settings": {
-    "Ru": "",
+    "Ru": "Настройки панели",
     "Cn": "面板设置"
   },
   "position x": {
-    "Ru": "",
+    "Ru": "Позиция по координате X",
     "Cn": "菜单x轴"
   },
   "position y": {
-    "Ru": "",
+    "Ru": "Позиция по координате Y",
     "Cn": "菜单y轴"
   },
   "SIZE": {
-    "Ru": "",
+    "Ru": "Размер",
     "Cn": "大小"
   },
   "Auto usage": {
-    "Ru": "",
+    "Ru": "Авто использование",
     "Cn": "自动使用"
   },
   "更新率": {
@@ -72,15 +72,15 @@
     "Cn": "延迟"
   },
   "Tree cut": {
-    "Ru": "",
+    "Ru": "Ломание дерева",
     "Cn": "自动砍树"
   },
   "Evader": {
-    "Ru": "",
+    "Ru": "Эвейдер",
     "Cn": "躲避"
   },
   "Farm": {
-    "Ru": "",
+    "Ru": "Фарм",
     "Cn": "补刀"
   },
   "商店营业时不要画画": {
@@ -88,99 +88,99 @@
     "Cn": "打开商店时,其他绘制暂时关闭"
   },
   "Item manager": {
-    "Ru": "",
+    "Ru": "Мэнеджер предметов",
     "Cn": "物品管理"
   },
   "FARM STATUS": {
-    "Ru": "",
+    "Ru": "Статус фарма",
     "Cn": "推进状态"
   },
   "NOT ACTIVE": {
-    "Ru": "",
+    "Ru": "Не Активирован",
     "Cn": "不工作"
   },
   "LINE SELECT FARM": {
-    "Ru": "",
+    "Ru": "Выбори линии фарма",
     "Cn": "选择打钱线路"
   },
   "TOP": {
-    "Ru": "",
+    "Ru": "ТОП",
     "Cn": "上路"
   },
   "MID": {
-    "Ru": "",
+    "Ru": "МИД",
     "Cn": "中路"
   },
   "BOT": {
-    "Ru": "",
+    "Ru": "БОТ",
     "Cn": "下路"
   },
   "AUTO": {
-    "Ru": "",
+    "Ru": "Авто",
     "Cn": "自动"
   },
   "ARC TARGET COMBO": {
-    "Ru": "",
+    "Ru": "Арк таргет комбо",
     "Cn": "副狗连招目标"
   },
   "Dodge": {
-    "Ru": "",
+    "Ru": "Доджер",
     "Cn": "躲避(全部)"
   },
   "Snatcher (T)": {
-    "Ru": "",
+    "Ru": "Снетчер",
     "Cn": "抢东西状态(开启)"
   },
   "Humanizer BETA TEST": {
-    "Ru": "",
+    "Ru": "Хуманайзер: Бетта Тест",
     "Cn": "人性化测试版本"
   },
   "Humanizer": {
-    "Ru": "",
+    "Ru": "Хуманайзер",
     "Cn": "人性化"
   },
   "Creeps Blocker": {
-    "Ru": "",
+    "Ru": "Крип Блокер",
     "Cn": "卡兵"
   },
   "Menu Size": {
-    "Ru": "",
+    "Ru": "Размер меню",
     "Cn": "菜单大小"
   },
   "Menu Alpha": {
-    "Ru": "",
+    "Ru": "Альфа Меню",
     "Cn": "菜单透明度"
   },
   "Auto accept": {
-    "Ru": "",
+    "Ru": "Авто принятие игры",
     "Cn": "自动接受"
   },
   "Dota Plus": {
-    "Ru": "",
+    "Ru": "Дота Плюс",
     "Cn": "解锁dotaPLUS"
   },
   "Debugger": {
-    "Ru": "",
+    "Ru": "Дебагер",
     "Cn": "调试模式"
   },
   "Draw": {
-    "Ru": "",
+    "Ru": "Рисовантн",
     "Cn": "显示"
   },
   "Test": {
-    "Ru": "",
+    "Ru": "Тест",
     "Cn": "测试"
   },
   "Camera": {
-    "Ru": "",
+    "Ru": "Камера",
     "Cn": "相机(俗称镜头)"
   },
   "Slow": {
-    "Ru": "",
+    "Ru": "Медленно",
     "Cn": "慢"
   },
   "Speed": {
-    "Ru": "",
+    "Ru": "Скорость",
     "Cn": "速度"
   },
   "Mouse TODO": {
@@ -188,67 +188,67 @@
     "Cn": "鼠标设置"
   },
   "Minimap": {
-    "Ru": "",
+    "Ru": "Миникарта",
     "Cn": "小地图"
   },
   "Enable": {
-    "Ru": "",
+    "Ru": "Включено",
     "Cn": "启用"
   },
   "Screen": {
-    "Ru": "",
+    "Ru": "Экран",
     "Cn": "屏幕"
   },
   "Start Trigger": {
-    "Ru": "",
+    "Ru": "Старт тригеров",
     "Cn": "开始触发"
   },
   "End Trigger": {
-    "Ru": "",
+    "Ru": "Оканчивание тригеров",
     "Cn": "结束触发"
   },
   "If you disable it,": {
-    "Ru": "",
+    "Ru": "Если вы отключите его, то",
     "Cn": "如果关闭他"
   },
   "there will be a big risk of a ban": {
-    "Ru": "",
+    "Ru": "вы будет подверженны высокому риску бана",
     "Cn": "你会被禁止"
   },
   "Draw orders": {
-    "Ru": "",
+    "Ru": "Отображать ордера",
     "Cn": "显示发包信息"
   },
   "Hotkey": {
-    "Ru": "",
+    "Ru": "Клавиша",
     "Cn": "快捷键"
   },
   "Time (in ms) before next activation (GLOBAL! WORK ON ALL CUTTERS)": {
-    "Ru": "",
+    "Ru": "Время (в мс) до следующей активации (ГЛОБАЛЬНО! РАБОТАЕТ НА ВСЕ ДЕРЕВЬЯ)",
     "Cn": "在砍完一颗树之后等多久才会砍下一颗(这个延迟时间会影响其他砍树设置)"
   },
   "Use abilities after X minutes": {
-    "Ru": "",
+    "Ru": "Использовать способности через X минут",
     "Cn": "在多少分钟后才开始砍树"
   },
   "Evader (Proactive)": {
-    "Ru": "",
+    "Ru": "Эвейдер (Про режим)",
     "Cn": "尝试预测和躲避即时施法能力（羊刀紫苑禁魔变羊等）"
   },
   "Dodge (Disables)": {
-    "Ru": "",
+    "Ru": "Додж (Выключен)",
     "Cn": "只躲控制"
   },
   "Dodge (None)": {
-    "Ru": "",
+    "Ru": "Додж (Нет)",
     "Cn": "啥都不躲"
   },
   "Dodge:": {
-    "Ru": "",
+    "Ru": "Додж",
     "Cn": "躲避(全部)"
   },
   "Move camera": {
-    "Ru": "",
+    "Ru": "Перемещение камеры",
     "Cn": "移动镜头"
   },
   "值将加速能力触发，但会减少 fps": {
@@ -264,19 +264,19 @@
     "Cn": "闪烁时使用"
   },
   "Dont use eul in combo, if have arcane blink": {
-    "Ru": "",
+    "Ru": "Не использовать eul в комбо, если у вас есть arcane blinkarcane blink",
     "Cn": "不用吹风,直接跳大"
   },
   "Raze settings": {
-    "Ru": "",
+    "Ru": "Настройка рейзов",
     "Cn": "影压设置"
   },
   "Raze to mouse": {
-    "Ru": "",
+    "Ru": "Рейзы в область мыши",
     "Cn": "鼠标位置放影压"
   },
   "Draw razes": {
-    "Ru": "",
+    "Ru": "Отображать рейзы",
     "Cn": "显示影压范围"
   },
   "Techies Crappahilation": {
@@ -284,99 +284,99 @@
     "Cn": "炸弹人脚本"
   },
   "Auto Detonate": {
-    "Ru": "",
+    "Ru": "Автоматический подрыв",
     "Cn": "自动引爆"
   },
   "Detonate all in once": {
-    "Ru": "",
+    "Ru": "Взрывать все мины",
     "Cn": "炸全部的雷"
   },
   "Detonate all in once with focused detonation": {
-    "Ru": "",
+    "Ru": "Взрывать только определенное количество мин",
     "Cn": "用集中引爆来炸雷"
   },
   "Use prediction": {
-    "Ru": "",
+    "Ru": "Использование предикта (предсказание премещения врага)",
     "Cn": "使用预测"
   },
   "Delay on detonate": {
-    "Ru": "",
+    "Ru": "Задержка детонации",
     "Cn": "延迟引爆时间"
   },
   "Targets": {
-    "Ru": "",
+    "Ru": "Цели",
     "Cn": "选择目标"
   },
   "Auto Planting": {
-    "Ru": "",
+    "Ru": "Автоматический плент",
     "Cn": "自动埋雷"
   },
   "Help to plant mines in one place": {
-    "Ru": "",
+    "Ru": "Помощь в пленте мин в одну точку",
     "Cn": "帮助在一个地方埋地雷"
   },
   "Auto remote mine on last cast": {
-    "Ru": "",
+    "Ru": "Автоматический ставить мины на последнюю точку плента",
     "Cn": "自动在大招位置放雷"
   },
   "Auto proximity mines on base": {
-    "Ru": "",
+    "Ru": "Автоматический КРАСНЫЕ расставлять мины на базе",
     "Cn": "自动在家附近埋雷"
   },
   "Move proximity mines on closest stun position": {
-    "Ru": "",
+    "Ru": "Автоматический перемещать Proximity Mines в позицию, мин Stasis Trap",
     "Cn": "有晕雷自动把雷聚在一起"
   },
   "Range for auto moving": {
-    "Ru": "",
+    "Ru": "Рендж автоматического перемещения",
     "Cn": "会自动移动的范围"
   },
   "Visual": {
-    "Ru": "",
+    "Ru": "Визуалы",
     "Cn": "帮助显示"
   },
   "Damage panel": {
-    "Ru": "",
+    "Ru": "Панель урона",
     "Cn": "伤害面板"
   },
   "Damage drawing": {
-    "Ru": "",
+    "Ru": "Рисовать урон",
     "Cn": "开启伤害面板"
   },
   "Show damage counter": {
-    "Ru": "",
+    "Ru": "Показывать счётчик урона",
     "Cn": "伤害面板提示"
   },
   "Only for current hp": {
-    "Ru": "",
+    "Ru": "Только с минимальным колличеством ХП"",
     "Cn": "当前血量"
   },
   "Bomb damage draw type": {
-    "Ru": "",
+    "Ru": "Показывание урона мин",
     "Cn": "伤害计算方式"
   },
   "Extra Position X": {
-    "Ru": "",
+    "Ru": "Экста позиция X",
     "Cn": "面板x轴"
   },
   "Extra Position Y": {
-    "Ru": "",
+    "Ru": "Экста позиция Y",
     "Cn": "面板y轴"
   },
   "Good positions": {
-    "Ru": "",
+    "Ru": "Хорошие позиции мин",
     "Cn": "埋雷提示(我认为过时了)"
   },
   "Show good position for planting": {
-    "Ru": "",
+    "Ru": "Показывать хорошии позиции мин",
     "Cn": "显示埋雷推荐的位置"
   },
   "Range ": {
-    "Ru": "",
+    "Ru": "Дистанция",
     "Cn": "范围"
   },
   "Only for max hp": {
-    "Ru": "",
+    "Ru": "Только с максимальным колличеством ХП",
     "Cn": "最大血量"
   },
   "FreeEmoteIcons": {
@@ -384,19 +384,19 @@
     "Cn": "免费的表情"
   },
   "Combo key": {
-    "Ru": "",
+    "Ru": "Комбо клавиши",
     "Cn": "连招"
   },
   "Ult combo key": {
-    "Ru": "",
+    "Ru": "Ультимативная комбо клавиша",
     "Cn": "大招连招"
   },
   "Raze Key": {
-    "Ru": "",
+    "Ru": "Клавиша рейзов",
     "Cn": "影压快捷键"
   },
   "Spells": {
-    "Ru": "",
+    "Ru": "Спелы",
     "Cn": "使用的技能"
   },
   "linken's": {
@@ -404,31 +404,31 @@
     "Cn": "林肯"
   },
   "RazeMouse": {
-    "Ru": "",
+    "Ru": "Рейзы по мыши",
     "Cn": "影压到鼠标位置"
   },
   "Show Raze Radius": {
-    "Ru": "",
+    "Ru": "Показывать радиус рейзов",
     "Cn": "显示影压范围"
   },
   "ZXC settings": {
-    "Ru": "",
+    "Ru": "ZXC настройки",
     "Cn": "大招连招设置"
   },
   "Eul Combo": {
-    "Ru": "",
+    "Ru": "Eul Комбо",
     "Cn": "吹风连招"
   },
   "Auto use Ethereal Blade": {
-    "Ru": "",
+    "Ru": "Автоматическое использование Ethereal Blade",
     "Cn": "自动用虚灵刀"
   },
   "Reasonable use of the sheep's stick before EUL": {
-    "Ru": "",
+    "Ru": "Умное использование HEX палки до EUL",
     "Cn": "吹风前用羊刀"
   },
   "Auto cancel ultimate": {
-    "Ru": "",
+    "Ru": "Автоматическое отменение ультимейта",
     "Cn": "自动取消大招"
   },
   "Abyssal Combo": {
@@ -436,31 +436,31 @@
     "Cn": "大晕锤连招"
   },
   "Auto use Ethereal Blade before Abyssal Blade": {
-    "Ru": "",
+    "Ru": "Автоматическое использование Ethereal Blade перед Abyssal Blade",
     "Cn": "用虚灵刀"
   },
   "Extra time ult": {
-    "Ru": "",
+    "Ru": "Extra время ультимейта",
     "Cn": "大招时间设置(加快或者延迟)"
   },
   "Smart use of bkb": {
-    "Ru": "",
+    "Ru": "Умное использование bkb",
     "Cn": "智能用bkb"
   },
   "Enemy search radius for smart BKB": {
-    "Ru": "",
+    "Ru": "Поиск врагов в радиусе для smart BKB",
     "Cn": "这个范围里有敌人就用bkb"
   },
   "Menu combo settings": {
-    "Ru": "",
+    "Ru": "Меню комбо настройки",
     "Cn": "连招物品选择菜单"
   },
   "ACTIVE": {
-    "Ru": "",
+    "Ru": "Активировано",
     "Cn": "正在执行"
   },
   "Save if some text appears on the screen then you can change it via file": {
-    "Ru": "",
+    "Ru": "Сохранть, если текст появляется на экране, вы можете изменить его через файл",
     "Cn": ""
   },
   "Divine.Menu": {
@@ -468,11 +468,11 @@
     "Cn": ""
   },
   "Cn": {
-    "Ru": "",
+    "Ru": "Китайский",
     "Cn": ""
   },
   "you can edit it and send it to RoccoZero.": {
-    "Ru": "",
+    "Ru": "вы можете отредактировать его и отправить разработчику RoccoZero",
     "Cn": ""
   },
   "Insert": {
@@ -484,19 +484,19 @@
     "Cn": ""
   },
   "Menu Input Block": {
-    "Ru": "",
+    "Ru": "Блок ввода в меню",
     "Cn": ""
   },
   "Default": {
-    "Ru": "",
+    "Ru": "Стандартное",
     "Cn": ""
   },
   "Menu Style": {
-    "Ru": "",
+    "Ru": "Стиль меню",
     "Cn": ""
   },
   "Button": {
-    "Ru": "",
+    "Ru": "Кнопка",
     "Cn": ""
   }
 }
