@@ -3971,7 +3971,7 @@
   },
   "10 units of slider = 1 degree, larger value -> more FPS but less accuracy": {
     "Ru": "",
-    "Cn": "拖动条10个单位等于1度: 数值大 -> 掉帧会更厉害但是准确率会提高",
+    "Cn": "拖动条10个单位等于1度: 数值小 -> 掉帧会更厉害但是准确率会提高",
     "Ua": ""
   },
   "smaller value -> higher fail rate for side hook but also more crazy angle if success": {
