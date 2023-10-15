@@ -3979,6 +3979,16 @@
     "Cn": "数值更小 -> 更高的可能性碰到障碍物单位, 但是成功时, 更紧凑地和障碍物擦边而过",
     "Ua": ""
   },
+  "These three will include allies.": {
+    "Ru": "",
+    "Cn": "这三个快捷键都可以钩队友",
+    "Ua": ""
+  },
+  "Hook (Not Include Ally)": {
+    "Ru": "",
+    "Cn": "钩人(但是不包括队友)",
+    "Ua": ""
+  },
   "TeemoHighFive/Spinner": {
     "Ru": "",
     "Cn": "Teemo.自动击掌/英雄原地打转",
