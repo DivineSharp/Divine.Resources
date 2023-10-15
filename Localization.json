@@ -3979,7 +3979,7 @@
     "Cn": "数值更小 -> 更高的可能性碰到障碍物单位, 但是成功时, 更紧凑地和障碍物擦边而过",
     "Ua": ""
   },
-  "TeemoHighFive/Spinner": {
+  "TeemoHighFiveAndSpinner": {
     "Ru": "",
     "Cn": "Teemo.自动击掌/英雄原地打转",
     "Ua": ""
@@ -3987,6 +3987,21 @@
   "Auto High-Five": {
     "Ru": "",
     "Cn": "自动回应击掌",
+    "Ua": ""
+  },
+  "Check Whether In Cast-Point Hook Still Can Hit While Target Changed Direction?": {
+    "Ru": "",
+    "Cn": "当处于钩子施法前摇中，目标改变移动方向后，是否先预测命中而后再考虑取消钩子？",
+    "Ua": ""
+  },
+  "When enabled: The hook won't be cancelled if it still can hit target": {
+    "Ru": "",
+    "Cn": "启用时，如果钩子依然可以命中目标，则不会取消施法前摇",
+    "Ua": ""
+  },
+  "MultipleHotkeys For Same Purpose.": {
+    "Ru": "",
+    "Cn": "多个快捷键同样的功能，以方便某些用户混合O9K使用",
     "Ua": ""
   },
   "High-Five to Low HP(15%) Enemy": {
